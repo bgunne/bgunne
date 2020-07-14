@@ -2,7 +2,7 @@
 <sup>*Background photo created by **[freepik - www.freepik.com](https://www.freepik.com/free-photos-vectors/background)**</sup>*
 ### Hi there :wave:
 **Glad to see you here!** :relaxed:
-<br>My name is Tamás, a front-end developer from Budapest, Hungary. 🇭🇺
+<br>My name is Tamás, I'm a front-end developer from Budapest, Hungary. 🇭🇺
 <br>You can check my journey on my [**GitHub** repositories](https://github.com/bgunne?tab=repositories) page. Outside of [GitHub](https://github.com/bgunne), you can **find me on [LinkedIn](https://www.linkedin.com/in/tam%C3%A1s-u-9310781a3/)**. If you have any open project which needs a helping hand, feel free to contact me. Currently, I'm working on following projects:
 
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat&logo=github)](https://github.com/bgunne) [![Visitors](https://visitor-badge.glitch.me/badge?page_id=bgunne.visitor-badge)](https://github.com/bgunne) [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/bgunne)
